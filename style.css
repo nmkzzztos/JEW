@@ -58,7 +58,8 @@
 }
 
 .main {
-  background-color: #black;
+  background-color: #333333, 87%;
+  background-image: url("https://github.com/nmkzzztos/JEW.github.io/blob/main/assets/images/main/bgc.png");
 }
 
 .main__title {
