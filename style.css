@@ -58,8 +58,7 @@
 }
 
 .main {
-  background-color: #333333, 87%;
-  background-image: url("../assets/images/main/bgc.png");
+  background-color: #black;
 }
 
 .main__title {
@@ -154,8 +153,7 @@
 }
 
 .our-salon {
-  background-color: #333333, 87%;
-  background-image: url("../assets/images/our-salon/bg-salon.png");
+  background-color: #black
   display: flex;
   align-items: center;
   justify-items: center;
